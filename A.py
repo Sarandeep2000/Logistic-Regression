@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 29 16:14:35 2021
 
-@author: Phoenix
+@author: Sarandeep Singh
 """
 
 from LogisticRegression import Logistic_Regression
