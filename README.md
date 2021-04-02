@@ -1,5 +1,5 @@
 # Logistic-Regression
-This repository contains a code of Logistic Regression with LASSO and RIDGE regularization support. More details are in the code
+This repository contains a code of Logistic Regression with LASSO and RIDGE regularization support.
 
 To import the Logistic Regression class, you have to import the following - "LogisticRegression.Logistic_Regression". Documentation about functionality is given in the code.
 
